@@ -46,11 +46,10 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=niishaaant&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=niishaaant" alt="GitHub Streak">
-    </td>
   </tr>
 </table>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
