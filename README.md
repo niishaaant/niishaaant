@@ -1,8 +1,6 @@
 ## 👋 Hey there! I'm Nishant  
 ### 🚀 MTech Student | Blockchain Enthusiast | Web3 Developer  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,code)
-
 ---
 
 ### 🛠 About Me
@@ -45,9 +43,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=niishaaant&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=niishaaant&theme=radical" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
